@@ -1,7 +1,6 @@
 README File: Team Project on Binary Trees
 
 Learning Objectives
-General
 Our team aims to achieve comprehensive understanding and proficiency in the following areas related to binary trees:
 
 Understanding Binary Trees:
